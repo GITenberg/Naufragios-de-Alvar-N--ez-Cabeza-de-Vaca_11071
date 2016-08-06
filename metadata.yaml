@@ -1,0 +1,33 @@
+_repo: Naufragios-de-Alvar-N--ez-Cabeza-de-Vaca_11071
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Núñez Cabeza de Vaca, Alvar, 16th cent.
+    aliases:
+    - Nunez Cabeza de Vaca, Alvar
+    - Vaca, Alvar Núñez Cabeza de
+    - De Vaca, Alvar Núñez Cabeza
+    - Cabeza de Vaca, Alvar Núñez
+    gutenberg_agent_id: '3823'
+    url: http://www.gutenberg.org/2009/agents/3823
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11071'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Early accounts to 1600'
+- !lcsh 'Explorers -- America -- Biography'
+- !lcsh 'Indians of North America -- Southwestern States'
+- !lcsh 'Explorers -- Spain -- Biography'
+- !lcsh 'Southwestern States -- Description and travel'
+- !lcsh 'Núñez Cabeza de Vaca, Alvar, active 16th century'
+- !lcsh 'America -- Discovery and exploration -- Spanish'
+- !lcc 'E011'
+- GITenberg
+title: Naufragios de Alvar Núñez Cabeza de Vaca
+url: http://www.gutenberg.org/ebooks/11071
